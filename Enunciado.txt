@@ -1,0 +1,17 @@
+
+1. Definir una lista L0=[['A','B','C'], [0,1,2], [1.2, 3.4, 5.6]]. Mostrar L0
+2. A partir de L0, obtener L1 de forma que L1=[['C','B','A'], [2, 1, 0], [5.6, 3.4, 1.2]
+3. A partir de L0, obtener L2 a partir de L0 de forma que L2=[['C','B','A'], [2, 1, 0], [5, 3, 1]]
+4. A partir de L0, obtener L3 de forma que L3=['A01.2']
+
+
+
+2.1 Cree un diccionario dicc de forma que se asignen las claves 'A', 'B' y 'C' a los valores "LETRA_A", "LETRA_B", "LETRA_C"
+2.2 Asumiendo que el número de claves no es conocido, localice el valor correspondiente a la última letra
+
+
+
+a continuación, escribe una celda en código Python para darles solución:
+3.1 Crea una función de nombre esPrimo que devuelva True si el valor recibido es un número primo
+3.1 Utilize un bucle y la función definida en 3.1 para determinar cuantos números primos hay en 
+el rango 100:199
